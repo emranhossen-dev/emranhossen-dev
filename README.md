@@ -1,28 +1,55 @@
-### Hi there 👋, I am Emran Hossen
-#### MERN Stack Developer
+
 ![MERN Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQHtuZ_jfvRmNg/profile-displaybackgroundimage-shrink_350_1400/B56Z0h2PSOHwAY-/0/1774389361664?e=1777507200&v=beta&t=0ABDvbNvwEbsizaWVUe6hUTEYci6pXWXB636Cl5q2zU)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# <p align="center"><b>HI, I'M EMRAN HOSSEN</b> 👋</p>
 
-Skills: Mongodb / Express / ReactJs / NodeJS / HTML / CSS
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=f42a41&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Specialist;Goal:+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on developing scalable project 
-- 🌱 I’m currently learning Fullstack Developing 
-- 💬 Ask me about awesome scalable project 
-- 📫 How to reach me: dev.emranhossen@gmail.com 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emranhossen-dev&theme=tokyonight&no-frame=true&margin-w=15" alt="github trophies" />
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emranhossen-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emranhossen.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emranhossen.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emranhossen.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](emranhossen.vercel.app)  
+### 🚀 About Me
+- 🔭 I’m currently working on **MERN Stack Applications**.
+- 🌱 I’m currently learning **Advanced Backend Architecture**.
+- 🥅 Goal: To become a **Senior Full Stack Developer**.
+- ⚡ Fun fact: I love building responsive, "pixel-perfect" UI components.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emranhossen-dev)](https://github.com/ryo-ma/github-profile-trophy)
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mongodb,express,nodejs,git,github,vscode&theme=dark" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emranhossen-dev)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emranhossen-dev&show_icons=true&count_private=true)  
+### 📊 Github Activity (Dark Theme)
 
-![GitHub metrics](https://metrics.lecoq.io/emranhossen-dev)  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emranhossen-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranhossen-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=emranhossen-dev)  
+### 📈 Weekly Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emranhossen-dev&theme=tokyonight&area=true&hide_border=true" />
+</p>
 
+---
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/your-username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emranhossen-dev&label=Profile%20Views&color=006a4e&style=flat" alt="Views" />
+</p>
