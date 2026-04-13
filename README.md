@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f42a41&center=true&vCenter=true&width=600&lines=I+am+a+Frontend+Developer;I+am+a+MERN+Stack+Specialist;My+goal+is+to+be+a+Full+Stack+Developer" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f42a41&center=true&vCenter=true&width=750&lines=I+am+a+Frontend+Developer;I+am+a+MERN+Stack+Specialist;My+goal+is+to+be+a+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 # 💫 About Me:
@@ -34,13 +34,13 @@
 # 📊 GitHub Analysis:
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=emranhossen-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossen-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 ### 📈 Contribution History
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emranhossen-dev&theme=tokyonight&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emranhossen-dev&theme=tokyonight&bg_color=1a1b26&area=true&hide_border=false" />
 </p>
 
 ---
