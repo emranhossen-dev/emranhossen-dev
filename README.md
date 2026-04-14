@@ -38,6 +38,10 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emranhossen-dev&theme=tokyonight&hide_border=false" width="97%" alt="streak stats" />
+</p>
+
 ### 📈 Contribution History
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emranhossen-dev&theme=tokyonight&bg_color=1a1b26&area=true&hide_border=false" />
