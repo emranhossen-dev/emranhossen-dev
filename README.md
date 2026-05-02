@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHtuZ_jfvRmNg/profile-displaybackgroundimage-shrink_200_800/B56Z0h2PSOHwAU-/0/1774389361664?e=1777507200&v=beta&t=DN1xYHr2bMq6lRpHE3Jzq2Vhn5pEwvsDfrP3JsUwBhM" width="100%" alt="Emran Hossen Banner" />
+  <p align="center">
+  <img src="https://i.ibb.co/680pZpB/watermarked-img-18176219385284242077.png" width="100%" alt="Emran Hossen Banner" />
 </p>
 
 # <p align="center"><b>HI, I'M EMRAN HOSSEN</b> 👋</p>
