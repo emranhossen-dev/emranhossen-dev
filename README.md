@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/emranhossen-dev/emranhossen-dev/main/Gemini_Generated_Image_6v8pp06v8pp06v8p.png" width="100%" alt="Emran Hossen Banner" />
 </p>
-# <p align="center"><b>HI, I'M EMRAN HOSSEN</b> 👋</p>
+<p align="center"><b>HI, I'M EMRAN HOSSEN</b> 👋</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
