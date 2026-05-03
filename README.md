@@ -30,15 +30,15 @@
 
 ---
 
-# 📊 GitHub Analysis:
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43.5%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emranhossen-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="43.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emranhossen-dev&theme=tokyonight&hide_border=false" width="92.5%" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=emranhossen-dev&theme=tokyonight&hide_border=false" width="92.5%" alt="streak stats" />
 </p>
 
 ### 📈 Contribution History
