@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emranhossen-dev/emranhossen-dev/main/Gemini_Generated_Image_6v8pp06v8pp06v8p.png" width="100%" alt="Emran Hossen Banner" />
+  <img src="https://i.ibb.co.com/fVZQ2Kf6/1774389361664-1.jpg" width="100%" alt="Emran Hossen Banner" />
 </p>
 <p align="center"><b>HI, I'M EMRAN HOSSEN</b> 👋</p>
 
