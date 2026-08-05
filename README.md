@@ -41,10 +41,6 @@
   <img src="https://streak-stats.demolab.com/?user=emranhossen-dev&theme=tokyonight&hide_border=false" width="92.5%" alt="streak stats" />
 </p>
 
-###  Contribution History
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emranhossen-dev&theme=tokyonight&bg_color=1a1b26&area=true&hide_border=false" />
-</p>
 
 ---
 
