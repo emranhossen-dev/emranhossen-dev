@@ -31,7 +31,7 @@
     <li>Ask me about <b>React, Next.js, or Node.js</b>, happy to help.</li>
     <li>Feel free to ping me on <a href="https://www.linkedin.com/in/emranhossen-dev/" target="_blank"><b>LinkedIn</b></a>.</li>
     <li>Explore my portfolio at <a href="https://emran.work" target="_blank"><b>emran.work</b></a>.</li>
-    <li>Check out my <a href="https://emran.work](https://drive.google.com/file/d/1eIj32B7Z1a3_oO67vq-T5XKfOlPU-H8Y/view?usp=sharing" target="_blank"><b>resume</b></a> or contact me via <a href="mailto:dev.emranhossen@gmail.com"><b>email</b></a>.</li>
+    <li>Check out my <a href="https://drive.google.com/file/d/1eIj32B7Z1a3_oO67vq-T5XKfOlPU-H8Y/view?usp=sharing" target="_blank"><b>resume</b></a> or contact me via <a href="mailto:dev.emranhossen@gmail.com"><b>email</b></a>.</li>
   </ul>
 </div>
 
